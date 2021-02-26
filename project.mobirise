@@ -69,12 +69,6 @@
     "siteUrl": "https://mahadigital.in",
     "robotsText": "User-agent: *\nDisallow: /cgi-bin\n",
     "google-analytics": "",
-    "gdpr": {
-      "colorText": "#a7a7a7",
-      "colorLink": "#149dcc",
-      "underlineLink": false,
-      "text": "By continuing you agree to our Terms of Service and Privacy Policy"
-    },
     "dppsSwitcher": true,
     "spellingSwitch": true,
     "imageResize": true,
@@ -93,7 +87,8 @@
       "opacityOverlay": "80",
       "text": "Site is under development ,so currently some functions are disabled.\n-abhijit mane(developer)",
       "textButton": "Agree"
-    }
+    },
+    "gdpr": false
   },
   "pages": {
     "index.html": {
